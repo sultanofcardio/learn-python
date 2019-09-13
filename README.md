@@ -9,4 +9,19 @@ I'm actually making this up as I go along, and I'm making this repository public
 
 Let's see where this goes.
 
+## Topics
+
+This series endeavours to cover the following topics:
+
+* Programming in a nutshell
+* Data and data types
+* Constants and variables
+* Statements and expressions
+* Operators
+* Functions
+* Control flow and conditional statements
+* Looping
+* Recursion
+
+
 Go to [level-0](level-0)
