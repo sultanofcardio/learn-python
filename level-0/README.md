@@ -50,7 +50,10 @@ CPU is capable of doing.
 ## Remarks
 
 Of course I've glossed over some things and left out some others, but I think it's necessary to stay focused
-on what's really important. I hope I've given you at least a basic appreciation for what is happening
+on what's really important - learning to program. This will be necessary later in this series
+as well so I hope you'll forgive me for that. 
+
+I hope I've given you at least a basic appreciation for what is happening
 at the heart of the device you're using to read this document.
 
 Ok cool. Let's talk about programming.
