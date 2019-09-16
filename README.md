@@ -19,6 +19,7 @@ This series endeavours to cover the following topics:
 * Statements and expressions
 * Operators
 * Functions
+* Scoping
 * Control flow and conditional statements
 * Looping
 * Recursion
