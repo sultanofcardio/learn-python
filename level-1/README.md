@@ -1,5 +1,11 @@
 # Level 1
 
+This level covers the following topics:
+
+* Data and data types
+* Constants and variables
+---
+
 In level 0, we talked about computers processing data. This data includes the very 
 instructions that we use in order to tell the computer what to do.
 
@@ -60,14 +66,42 @@ Python:
 * boolean
 * composite data type
 
-**Number** is exactly what is sounds like. Stuff like 20 and 3.14 and √2 inside a python 
+**Number** is exactly what is sounds like. Stuff like 20 and 3.14 inside a python 
 program are represented by a number data type. The number is subdivided into integers, 
 floating point and complex numbers and every number in python will fall into one of these 
 categories.
 
+Here are some examples of numbers in Python:
+```python
+# integer
+2
+1024
+65536
+
+# floating point
+3.14
+2.718
+0.57721
+
+# complex numbers
+2+3j
+1+2j
+```
+
+> Note: Numbers in Python don't include commas! So one million will be 1000000 and is an integer
+
 **String** is the type that represents character data like the words in this document. In 
 Python, strings are surrounded by double (") or single (') quotes to differentiate them 
 from the actual code.
+
+Here are some examples of strings in Python:
+```python
+"Hello World"
+"I am a string"
+"I am another string"
+'I am a single quoted string'
+"""I am a special type of string known as a docstring"""
+```
 
 A **boolean** is a data type that has only two possible values: `true` and `false`. If 
 you've never heard of booleans before, you may be wondering why it is useful to represent
@@ -75,10 +109,22 @@ this in a program. On their own they're not very useful, but they become very po
 when considering control flow and conditional statements - something we will do later. 
 
 A **composite data type** is one that is made up of the other basic data types. These
-are sometimes referred to a **data structures**. A list of numbers `[1,2,3,4,5]` is a 
+are sometimes referred to a **data structures**. A list of numbers is a 
 composite data type. It is possible to take advantage of this to make your own data 
 types. As it turns out, it is possible to represent all kinds of data using only these
 four representations. This is part of what makes programming languages so powerful.
+
+Here are some examples of composite data types in Python:
+```python
+# list
+[1, 2, 3, 4, 5]
+
+# tuple
+(1, 2, 3, 4, 5)
+
+# dictionary
+{"name": "John Doe", "age": 35}
+```
 
 ### Constants vs Variables
 
