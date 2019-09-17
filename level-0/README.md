@@ -1,5 +1,9 @@
 # Level 0
 
+This level covers the following topics:
+
+* Programming in a nutshell
+
 ## Introduction
 
 So you wanted to learn how to program. 
@@ -56,4 +60,4 @@ as well so I hope you'll forgive me for that.
 I hope I've given you at least a basic appreciation for what is happening
 at the heart of the device you're using to read this document.
 
-Ok cool. Let's talk about programming.
+Ok cool. [Let's talk about programming](../level-1).
