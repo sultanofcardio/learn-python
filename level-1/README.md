@@ -88,7 +88,7 @@ Here are some examples of numbers in Python:
 1+2j
 ```
 
-> Numbers in Python don't include commas! So one million will be 1000000 and is an integer
+> Numbers in Python don't include commas! So one thousand will be 1000 and is an integer
 
 **String** is the type that represents character data like the words in this document. In 
 Python, strings are surrounded by double (") or single (') quotes to differentiate them 
