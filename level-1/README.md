@@ -148,7 +148,6 @@ will go there and look it up in order to understand what total means. Later on w
 changes, the computer will still be able to understand what total means by doing the same thing - looking in the
 stored location. 
 
-### Functions
+## Remarks
 
-Though not exactly a data type, Python also supports the concept of functions. A function
-is a collection of statements that is given a name.
+We will be using these concepts a lot throughout this series, so don't worry too much if you don't get it right away.
