@@ -151,3 +151,4 @@ stored location.
 ## Remarks
 
 We will be using these concepts a lot throughout this series, so don't worry too much if you don't get it right away.
+[Let's continue](../level-2).
