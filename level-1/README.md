@@ -88,7 +88,7 @@ Here are some examples of numbers in Python:
 1+2j
 ```
 
-> Note: Numbers in Python don't include commas! So one million will be 1000000 and is an integer
+> Numbers in Python don't include commas! So one million will be 1000000 and is an integer
 
 **String** is the type that represents character data like the words in this document. In 
 Python, strings are surrounded by double (") or single (') quotes to differentiate them 
@@ -125,6 +125,10 @@ Here are some examples of composite data types in Python:
 # dictionary
 {"name": "John Doe", "age": 35}
 ```
+
+> This code snippet has lines beginning with a #. In Python, any line beginning with a # is ignored by the 
+> computer and is not actually a statement. We call these lines comments - they are a programmer's way of leaving 
+> messages (to herself or others)
 
 ### Constants vs Variables
 
